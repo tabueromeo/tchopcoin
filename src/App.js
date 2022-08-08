@@ -8,6 +8,7 @@ function App() {
         <img src="/tchopcoin.png" className="logo" alt="tchopcoin Sarl" />
      
       </header>
+    <p> bonjour </p>
     </div>
   );
 }
